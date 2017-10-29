@@ -11,5 +11,5 @@ phases:
 
 artifacts:
   files:
-    - build/libs/tubers.web-0.0.1-SNAPSHOT.jar
+    - build/libs/test20171029-0.0.1-SNAPSHOT.jar
   discard-paths: yes
