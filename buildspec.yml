@@ -5,8 +5,9 @@ phases:
     commands:
       - pwd
       - ls -l
-      - ls -l build/libs
       - ./gradlew build
+      - ls -l
+      - ls -l build/libs
 
 artifacts:
   files:
